@@ -1,52 +1,35 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Christine Kaye Guira",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/Christine.png",
+    "email": "ckguira@hawaii.edu",
+    "phone": "808-636-4879",
+    "website": "https://ceekaye12.github.Io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96797",
+      "city": "Waipahu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "ceekaye12",
+        "url": "http://github.com/ceekaye12"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "christine",
+        "url": "https://www.linkedin.com/in/christine-kaye-guira-84ab291b5/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "CyberSecurity",
       "keywords": [
       ]
     },
@@ -61,32 +44,24 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science ",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": ",
       "endDate": "Present",
       "gpa": "",
       "courses": [
