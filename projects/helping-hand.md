@@ -4,7 +4,7 @@ layout: project
 type: project
 image: images/helping-hand.jpg
 title: Helping Hand
-permalink: projects/help
+permalink: projects/helping-hand
 date: 2020-09-11
 labels: 
  -Helping 
