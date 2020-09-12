@@ -1,3 +1,4 @@
+
 ---
 layout: project
 type: project
@@ -12,3 +13,4 @@ Highschool and college life can be stressful and busy at the same time but I mad
 Another volunteer I participated in was the “ Friends of the Library of Hawaii”, we helped them sort books from the alphabetical order and by the type of the book. I volunteered before but it was my first time to volunteer for a library. We stayed in their warehouse where all the books needed to be sorted before they displayed in the library. They also give free books to the less fortunate kids so they can learn. Showing them that poverty is not a problem as long as they are willing to do their best.  It was fun experiencing what they do and learning from them. After that, I thought of a way to help the children that wanted to study but cannot afford them. I donate to Saint Judes Hospital and 2 more organizations every december. I am hoping to find 1 more organization to help. 
 
  I had also  been volunteering at Leeward Community College for their yearly Discovery Fair. I had been volunteering here for the past few years and I will be attending again. I helped with the set up and I stay until the fair is finished because it is fun. I also checked the other booths to learn more about what they do. The ICS department always participated and it was fun to see them building machines. I was able to see what every course can offer. It made me happy to see that the childrens are happy. 
+
