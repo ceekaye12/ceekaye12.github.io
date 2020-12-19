@@ -6,7 +6,7 @@ date: 2020-12-03
 labels:
   - Design Patterns
 ---
-<img src="/images/design-patterns(1).png">
+<img src="/images/design-patterns (1).png">
 Design Patterns at first glance
 
 Throughout the semester for Software Engineering class, we focused on different areas of coding. Learning something new every week has been challenging. Challenging but fun at the same time. I heard about the design patterns  before from one of my friends but I didn’t really go deeper about it. I knew that we would be learning a lot of new things in this class but learning about design patterns never really crossed my mind. If my friend didn’t mention design patterns to me, I would never know. 
