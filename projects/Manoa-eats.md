@@ -16,7 +16,7 @@ Manoa Eats is a website for the University of Hawaii at Manoa students. It offer
 
 My Contribution
 Some features that I was able to do was the "Foods Available," "Home Page," and "Add Foods." 
-<img src="/images/AddFoods.png">
+<img src="/images/AddFood.png">
 <img src="/images/Homepage.png">
 The Homepage is where users land when they sign-in or sign-up. I put the "Aloha" so that users will feel welcome once they enter. The navbar consists of all the pages we have. The pages that are available there depends on the accessibility of the user. The admins can see all but the vendors, and users can't.  I also added a few details on what the "All Vendors," "Today's Top Pick," and "Foods Available" do. 
 
