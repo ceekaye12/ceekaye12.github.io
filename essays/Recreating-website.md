@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Recreating-Website
-date: 2020-10-08
+date: 2020-12-18
 labels:
   -Semantic UI
 ---
