@@ -46,6 +46,7 @@
       "keywords": [
         "Java",
         "Javascript",
+        "CSS",
       ]
     },
     {
@@ -63,8 +64,18 @@
       "studyType": "B.S.",
       "startDate": "08-2016",
       "endDate": "Present",
-      "gpa": "3.7",
+      "gpa": "3.8",
       "courses": [
+        "Introduction to Computer Science I",
+        "Introduction to Computer Science II",
+        "Algorithms",
+        "Software Engineering I",
+        "Discrete Math I",
+        "Discrete Math II",
+        "Basic Concepts of Computer Science", 
+        "Calculus I",
+        "Calculus II", 
+        "General Physics I",
       ]
     }
   ],
@@ -122,11 +133,11 @@
       "awarder": "Golden Key",
       "summary": "Scholarships awarded to students who are enrolled in Bachelors who completed minimum of 6 semesters  with a GPA of 3.75 and above"
     },
+     {
+      "title": "Manoa Opportunity Grant",
+      "date": "2018 - Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Granted to students who demonstrate financial need based on information provided on the FAFS. Student must be currently working on their Bachelors Degree. "
+    },
   ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
 }
