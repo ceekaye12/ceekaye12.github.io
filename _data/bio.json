@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Cyber Security" 
+      "name": "Cyber Security", 
       "keywords": [
       ]
     },
@@ -39,11 +39,10 @@
       ]
     },
      {
-      "name": "Software Engineering" 
+      "name": "Software Engineering", 
       "keywords": [
       ]
     },
-    }
   ],
   "skills": [
     {
