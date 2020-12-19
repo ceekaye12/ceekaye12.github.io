@@ -29,14 +29,20 @@
   },
   "interests": [
     {
-      "name": "Cyber Security","Web Design", "Software Engineering" 
+      "name": "Cyber Security" 
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Web Design",
       "keywords": [
       ]
+    },
+     {
+      "name": "Software Engineering" 
+      "keywords": [
+      ]
+    },
     }
   ],
   "skills": [
