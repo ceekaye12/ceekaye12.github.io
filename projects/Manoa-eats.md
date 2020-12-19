@@ -13,6 +13,7 @@ labels:
 ---
 What is Manoa Eats? 
 Manoa Eats is a website for the University of Hawaii at Manoa students. It offers different types of food. Students can browse the website to look for foods that they crave.  In this project, I worked with Marjorie Raquiz, Yeji Han, and Jerome Gallego. 
+Feel free to visit our website at [Manoa Eats](https://manoaeats.xyz/)
 
 My Contribution
 Some features that I was able to do was the "Foods Available," "Home Page," and "Add Foods." 
