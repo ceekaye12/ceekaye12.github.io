@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "CyberSecurity",
+      "name": "Cyber Security","Web Design", "Software Engineering", 
       "keywords": [
       ]
     },
@@ -47,6 +47,9 @@
         "Java",
         "Javascript",
         "CSS",
+        "HTML", 
+        "Semantic UI", 
+        "React",
       ]
     },
     {
@@ -137,7 +140,7 @@
       "title": "Manoa Opportunity Grant",
       "date": "2018 - Present",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Granted to students who demonstrate financial need based on information provided on the FAFS. Student must be currently working on their Bachelors Degree. "
+      "summary": "Awarded to students with a minimum overall GPA of 3.0."
     },
   ],
 }
